@@ -1,10 +1,7 @@
 # Desafio Estagiário - MV
 
-Teste técnico, lógico e prático para vaga de estágio em desenvolvimento.
-
 ## Sobre o Projeto
-
-Projeto que utilizei
+Teste técnico, lógico e prático para vaga de estágio em desenvolvimento.
 
 ---
 
