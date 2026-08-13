@@ -108,7 +108,7 @@ Método implementado:
 - Boas práticas de nomenclatura
 
 
-## 👤 Autor
+## Autor
 
 **Heytor Pimentel do Nascimento**
 
