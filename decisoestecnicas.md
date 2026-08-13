@@ -6,6 +6,14 @@ A solução foi desenvolvida utilizando **Java 21 e JDK 21**. A versão 21 foi e
 
 A escolha também busca utilizar uma versão consolidada da plataforma, proporcionando maior previsibilidade para o desenvolvimento e manutenção do projeto.
 
+### Padrão de Nomenclatura
+
+Foram utilizadas convenções de nomenclatura adequadas a cada tecnologia.
+
+No código Java, foi utilizado o padrão **camelCase** para nomes de variáveis e métodos, seguindo as convenções da linguagem. Classes foram nomeadas utilizando **PascalCase**.
+
+No banco de dados, foi utilizado o padrão **snake_case**, utilizando letras minúsculas e `_` para separar as palavras. Essa diferenciação mantém os nomes consistentes com as convenções normalmente utilizadas em cada contexto.
+
 ### Separação entre aplicação e banco de dados
 
 Os scripts SQL foram mantidos separados da aplicação Java, dentro do diretório `database`. Os arquivos foram organizados de acordo com suas responsabilidades:
