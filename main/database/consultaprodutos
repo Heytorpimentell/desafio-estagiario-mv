@@ -1,0 +1,2 @@
+-- 4. Realiza o SELECT consultando todos os produtos, não precisa ser em um script isolado
+SELECT * FROM `PRODUTO`;
